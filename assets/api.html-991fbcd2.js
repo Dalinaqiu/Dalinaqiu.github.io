@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-acdd9360","path":"/docs/theme-reco/api.html","title":"摘要","lang":"en-US","frontmatter":{"title":"摘要","date":"2020/05/29"},"headers":[],"git":{"createdTime":1700045822000,"updatedTime":1701865184000,"contributors":[{"name":"liqiu03","email":"liqiu03@baidu.com","commits":2}]},"filePathRelative":"docs/theme-reco/api.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as c}from"./app-ae419367.js";const s={},_=c("p",null,"something...",-1),n=[_];function a(r,l){return t(),o("div",null,n)}const d=e(s,[["render",a],["__file","guide.html.vue"]]);export{d as default};
