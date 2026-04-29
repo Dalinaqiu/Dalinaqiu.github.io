@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app-hbLPDTA1.js";const r={};function o(c,n){return a(),e("div")}const l=t(r,[["render",o]]),i=JSON.parse('{"path":"/tags/rizhi/2.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{l as comp,i as data};

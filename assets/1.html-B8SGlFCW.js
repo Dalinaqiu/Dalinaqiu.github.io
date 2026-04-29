@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-hbLPDTA1.js";const r={};function o(c,n){return a(),t("div")}const l=e(r,[["render",o]]),i=JSON.parse('{"path":"/categories/redis/1.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{l as comp,i as data};
